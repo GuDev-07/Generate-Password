@@ -1,12 +1,12 @@
-# Gerador de Senhas
+# Gerador de Senhas 🔑
 
 ― Bem-vindo ao projeto "Gerador de Senhas", uma aplicação simples, moderna e responsiva desenvolvida para criar senhas seguras e personalizadas de forma prática e rápida!
 
-#Objetivo do Projeto
+# Objetivo do Projeto 🚀
 
 ― O principal propósito desta plataforma é auxiliar usuários a protegerem suas contas e dados pessoais através da geração de senhas fortes, únicas e difíceis de serem quebradas. Criado com foco em usabilidade, segurança e acessibilidade, o aplicativo é intuitivo e eficiente.
 
-#Tecnologias Implementadas
+# Tecnologias Implementadas 👨🏻‍💻
 
 ― HTML5: Estrutura semântica bem organizada para melhor acessibilidade e navegação.
 
@@ -16,7 +16,7 @@
 
 ― Responsividade: Layout totalmente adaptado para dispositivos móveis e desktops.
 
-#Funcionalidades Pensadas
+# Funcionalidades Pensadas 🌐
 
 ✅ Geração Personalizada: Escolha o tamanho da senha e os tipos de caracteres (maiúsculas, minúsculas, números e símbolos).
 
