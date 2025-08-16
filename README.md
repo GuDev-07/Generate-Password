@@ -1,4 +1,4 @@
-#Gerador de Senhas
+# Gerador de Senhas
 
 ― Bem-vindo ao projeto "Gerador de Senhas", uma aplicação simples, moderna e responsiva desenvolvida para criar senhas seguras e personalizadas de forma prática e rápida!
 
